@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi! I’m Jihane.
 
-<!--
-**J1HANE/J1HANE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer who likes to keep things fun and creative.
+I’m early in my journey, but I love exploring new technologies and learning as I go.
+Constant growth and curiosity are what drive me forward. 🚀
 
-Here are some ideas to get you started:
+ Technologies & Tools
+# Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Angular, Livewire, Bootstrap, TailwindCSS, SASS, JQuery
+
+# Back-End
+
+PHP, Laravel, Node.js, Express.js, Java, Spring Boot, C, C#, Python, Django, Flask, Ruby, Ruby on Rails, Go, Rust
+
+# Databases
+
+MySQL, PostgreSQL, SQL Server, SQLite, MongoDB, Firebase, Oracle
+
+# DevOps & Tools
+
+Git, GitHub, GitLab, Docker, Linux,  Apache, 
+VS Code, IntelliJ IDEA, , Postman, Figma, Notion, Jira, Trello, npm, yarn, Composer, Maven, Gradle
+
+# Mobile :
+React Native, Kotlin
+
+# Autres :#
+REST API, JWT, UML 
+
+
+
+
+
