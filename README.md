@@ -2,7 +2,7 @@
 
 I’m a developer who likes to keep things fun and creative.
 I’m early in my journey, but I love exploring new technologies and learning as I go.
-Constant growth and curiosity are what drive me forward. 🚀
+Constant growth and curiosity are what drive me forward. 
 
  Technologies & Tools
 # Front-End
