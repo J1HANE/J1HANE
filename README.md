@@ -1,5 +1,5 @@
 # 🔭 About Me:
--  I’m currently working on full-stack web applications (Electron) and personal projects  <br>- 🤝 I’m looking to collaborate on web platforms, data engineering projects, or open-source tools  <br>-  I’m looking for help with advanced system design, cloud architecture, and scalable data pipelines  <br>- 🌱 I’m currently learning Data Engineering, Cloud (GCP/AWS), and distributed systems  <br>-  Ask me about React, Java, APIs, dashboards, or building real-world student projects  <br>- ⚡ Fun fact: I enjoy designing interfaces as much as I enjoy designing databases
+-  I’m currently working on full-stack web applications (Electron) and personal projects  <br>-  I’m looking to collaborate on web platforms, data engineering projects, or open-source tools  <br>-  I’m looking for help with advanced system design, cloud architecture, and scalable data pipelines  <br>-  I’m currently learning Data Engineering, Cloud (GCP/AWS), and distributed systems  <br>-  Ask me about React, Java, APIs, dashboards, or building real-world student projects  <br>- Fun fact: I enjoy designing interfaces as much as I enjoy designing databases
 
 
 ## 🌐 Socials:
